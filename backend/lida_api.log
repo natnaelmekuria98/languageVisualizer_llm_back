@@ -1,0 +1,306 @@
+2025-05-09 11:03:18,078 - main - INFO - Successfully processed file: e463a960b1ad4a9da2368e1e6388a3cf.csv
+2025-05-09 11:59:54,393 - main - INFO - Data directory initialized at: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data
+2025-05-09 12:00:23,299 - main - INFO - File saved to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/a539820e865f411aba8233fea1cf00b8.csv
+2025-05-09 13:36:31,795 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/1f0cb19d-4e0e-48f5-82b8-311d73612aea.csv
+2025-05-09 13:36:31,796 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/CPI_A.csv
+2025-05-09 13:36:31,796 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/5fcbfa2f-5fda-4d41-b6a6-60ccb71c7e19.csv
+2025-05-09 13:36:31,797 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/e463a960b1ad4a9da2368e1e6388a3cf.csv
+2025-05-09 13:36:31,797 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/294e8dda-29c9-42ce-b9eb-7fc284c15fa6.csv
+2025-05-09 13:36:31,797 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/f5ef91ed-6a9a-4783-a4c3-de32457d11aa.csv
+2025-05-09 13:36:31,798 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/a539820e865f411aba8233fea1cf00b8.csv
+2025-05-09 13:36:31,798 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/Combined_DLS_features_2019_2022.csv
+2025-05-09 13:36:31,798 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/6cddf93a-e08e-4baa-bcb0-60ee1a066cb5.csv
+2025-05-09 13:36:31,798 - main - INFO - Cleaned up file: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/e1970753-b4a9-4c9a-8dbe-23c552cdda03.csv
+2025-05-17 12:04:19,231 - main - INFO - LIDA Service initialized successfully
+2025-05-17 12:04:39,567 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 12:04:39,567 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120439.csv
+2025-05-17 12:04:39,572 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120439.csv
+2025-05-17 12:04:39,572 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120439.csv
+2025-05-17 12:04:39,572 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:04:39,584 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:04:39,672 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:04:39,678 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:04:50,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:04:50,232 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120439.csv
+2025-05-17 12:04:50,233 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_120439.csv
+2025-05-17 12:07:07,488 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 12:07:07,489 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_120707.csv
+2025-05-17 12:07:07,533 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_120707.csv
+2025-05-17 12:07:07,534 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_120707.csv
+2025-05-17 12:07:07,534 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:07:07,544 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:07:07,578 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:07:07,590 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:07:07,602 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:07:19,274 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:07:19,276 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_120707.csv
+2025-05-17 12:07:19,276 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_120707.csv
+2025-05-17 12:07:44,565 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 12:07:44,565 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120744.csv
+2025-05-17 12:07:44,572 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120744.csv
+2025-05-17 12:07:44,573 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120744.csv
+2025-05-17 12:07:44,573 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:07:44,607 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:07:44,666 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:07:44,673 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:07:55,726 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:07:55,727 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_120744.csv
+2025-05-17 12:07:55,728 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_120744.csv
+2025-05-17 12:11:59,523 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 12:11:59,523 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_121159.csv
+2025-05-17 12:11:59,524 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_121159.csv
+2025-05-17 12:11:59,524 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_121159.csv
+2025-05-17 12:11:59,524 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:11:59,589 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:11:59,612 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:11:59,616 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:12:14,689 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:12:14,730 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_121159.csv
+2025-05-17 12:12:14,731 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_121159.csv
+2025-05-17 12:12:14,732 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 12:12:14,733 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_121214.csv
+2025-05-17 12:12:14,754 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_121214.csv
+2025-05-17 12:12:14,754 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_121214.csv
+2025-05-17 12:12:14,755 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:12:14,759 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:12:14,777 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:12:14,784 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:12:14,791 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:12:25,751 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:12:25,753 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_121214.csv
+2025-05-17 12:12:25,753 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_121214.csv
+2025-05-17 12:18:42,145 - main - INFO - File upload request received: DLS scores for all languages.csv
+2025-05-17 12:18:42,145 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121842.csv
+2025-05-17 12:18:42,188 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121842.csv
+2025-05-17 12:18:42,188 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121842.csv
+2025-05-17 12:18:42,188 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:18:42,193 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:18:42,211 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:18:42,218 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:18:42,231 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:19:20,051 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:19:20,054 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121842.csv
+2025-05-17 12:19:20,054 - main - INFO - File processed successfully: DLS_scores_for_all_languages_20250517_121842.csv
+2025-05-17 12:19:41,222 - main - INFO - File upload request received: DLS scores for all languages.csv
+2025-05-17 12:19:41,223 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121941.csv
+2025-05-17 12:19:41,284 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121941.csv
+2025-05-17 12:19:41,285 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121941.csv
+2025-05-17 12:19:41,285 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:19:41,296 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:19:41,315 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:19:41,322 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:19:41,339 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:20:20,162 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:20:20,165 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_121941.csv
+2025-05-17 12:20:20,166 - main - INFO - File processed successfully: DLS_scores_for_all_languages_20250517_121941.csv
+2025-05-17 12:20:23,301 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 12:20:23,301 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_122023.csv
+2025-05-17 12:20:23,303 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_122023.csv
+2025-05-17 12:20:23,303 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_122023.csv
+2025-05-17 12:20:23,303 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:20:23,311 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:20:23,329 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:20:23,333 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:20:36,955 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:20:36,959 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_122023.csv
+2025-05-17 12:20:36,994 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_122023.csv
+2025-05-17 12:36:39,978 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 12:36:39,979 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_123639.csv
+2025-05-17 12:36:40,051 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_123639.csv
+2025-05-17 12:36:40,052 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_123639.csv
+2025-05-17 12:36:40,052 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:36:40,066 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:36:40,111 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:36:40,128 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:36:40,149 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:36:52,623 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:36:52,625 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_123639.csv
+2025-05-17 12:36:52,626 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_123639.csv
+2025-05-17 12:45:04,418 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 12:45:04,418 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124504.csv
+2025-05-17 12:45:04,481 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124504.csv
+2025-05-17 12:45:04,482 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124504.csv
+2025-05-17 12:45:04,482 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:45:04,551 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:45:04,603 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:45:04,615 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:45:04,628 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:45:16,412 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:45:16,481 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124504.csv
+2025-05-17 12:45:16,481 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_124504.csv
+2025-05-17 12:48:37,262 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 12:48:37,262 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124837.csv
+2025-05-17 12:48:37,301 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124837.csv
+2025-05-17 12:48:37,302 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124837.csv
+2025-05-17 12:48:37,302 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:48:37,311 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:48:37,343 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:48:37,355 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:48:37,369 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:48:48,756 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:48:48,761 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_124837.csv
+2025-05-17 12:48:48,762 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_124837.csv
+2025-05-17 12:50:13,028 - main - INFO - File upload request received: DLS scores for all languages.csv
+2025-05-17 12:50:13,028 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125013.csv
+2025-05-17 12:50:13,148 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125013.csv
+2025-05-17 12:50:13,149 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125013.csv
+2025-05-17 12:50:13,149 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:50:13,160 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:50:13,196 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:50:13,209 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:50:13,233 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:50:48,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:50:48,371 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125013.csv
+2025-05-17 12:50:48,372 - main - INFO - File processed successfully: DLS_scores_for_all_languages_20250517_125013.csv
+2025-05-17 12:57:35,293 - main - INFO - File upload request received: DLS scores for all languages.csv
+2025-05-17 12:57:35,293 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125735.csv
+2025-05-17 12:57:35,400 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125735.csv
+2025-05-17 12:57:35,401 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125735.csv
+2025-05-17 12:57:35,401 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:57:35,410 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:57:35,442 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:57:35,454 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 12:57:35,479 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:58:13,377 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:58:13,380 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_scores_for_all_languages_20250517_125735.csv
+2025-05-17 12:58:13,381 - main - INFO - File processed successfully: DLS_scores_for_all_languages_20250517_125735.csv
+2025-05-17 12:59:15,726 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 12:59:15,726 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_125915.csv
+2025-05-17 12:59:15,736 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_125915.csv
+2025-05-17 12:59:15,737 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_125915.csv
+2025-05-17 12:59:15,737 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:59:15,763 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 12:59:15,820 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 12:59:15,832 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 12:59:27,926 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 12:59:27,929 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_125915.csv
+2025-05-17 12:59:27,929 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_125915.csv
+2025-05-17 13:03:32,688 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:03:32,688 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_130332.csv
+2025-05-17 13:03:32,756 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_130332.csv
+2025-05-17 13:03:32,756 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_130332.csv
+2025-05-17 13:03:32,756 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:03:32,775 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:03:32,807 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:03:32,819 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:03:32,833 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:03:42,786 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:03:42,789 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_130332.csv
+2025-05-17 13:03:42,825 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_130332.csv
+2025-05-17 13:03:42,891 - main - INFO - Goals generation request received
+2025-05-17 13:03:42,892 - main - ERROR - Goals generation failed: 'LIDAService' object has no attribute 'generate_goals'
+Traceback (most recent call last):
+  File "/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/main.py", line 260, in generate_goals
+    goals = lida_service.generate_goals(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LIDAService' object has no attribute 'generate_goals'
+2025-05-17 13:04:59,666 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 13:04:59,666 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_130459.csv
+2025-05-17 13:04:59,672 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_130459.csv
+2025-05-17 13:04:59,673 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_130459.csv
+2025-05-17 13:04:59,673 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:04:59,700 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:04:59,796 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:04:59,806 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:05:12,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:05:12,223 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_130459.csv
+2025-05-17 13:05:12,223 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_130459.csv
+2025-05-17 13:05:12,257 - main - INFO - Goals generation request received
+2025-05-17 13:05:12,257 - main - ERROR - Goals generation failed: 'LIDAService' object has no attribute 'generate_goals'
+Traceback (most recent call last):
+  File "/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/main.py", line 260, in generate_goals
+    goals = lida_service.generate_goals(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LIDAService' object has no attribute 'generate_goals'
+2025-05-17 13:30:51,460 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:30:51,461 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133051.csv
+2025-05-17 13:30:51,526 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133051.csv
+2025-05-17 13:30:51,527 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133051.csv
+2025-05-17 13:30:51,527 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:30:51,536 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:30:51,570 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:30:51,593 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:30:51,616 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:31:03,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:31:03,022 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133051.csv
+2025-05-17 13:31:03,023 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_133051.csv
+2025-05-17 13:31:03,098 - main - INFO - Goals generation request received
+2025-05-17 13:31:03,098 - main - ERROR - Goals generation failed: 'LIDAService' object has no attribute 'generate_goals'
+Traceback (most recent call last):
+  File "/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/main.py", line 260, in generate_goals
+    goals = lida_service.generate_goals(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LIDAService' object has no attribute 'generate_goals'
+2025-05-17 13:33:24,000 - main - INFO - File upload request received: List of all DLS features.csv
+2025-05-17 13:33:24,000 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_133324.csv
+2025-05-17 13:33:24,006 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_133324.csv
+2025-05-17 13:33:24,006 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_133324.csv
+2025-05-17 13:33:24,006 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:33:24,029 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:33:24,073 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:33:24,081 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:33:36,890 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:33:36,893 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/List_of_all_DLS_features_20250517_133324.csv
+2025-05-17 13:33:36,893 - main - INFO - File processed successfully: List_of_all_DLS_features_20250517_133324.csv
+2025-05-17 13:33:36,937 - main - INFO - Goals generation request received
+2025-05-17 13:33:36,938 - main - ERROR - Goals generation failed: 'LIDAService' object has no attribute 'generate_goals'
+Traceback (most recent call last):
+  File "/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/main.py", line 260, in generate_goals
+    goals = lida_service.generate_goals(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LIDAService' object has no attribute 'generate_goals'
+2025-05-17 13:37:03,805 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:37:03,806 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133703.csv
+2025-05-17 13:37:03,873 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133703.csv
+2025-05-17 13:37:03,874 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133703.csv
+2025-05-17 13:37:03,874 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:37:03,884 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:37:03,917 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:37:03,929 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:37:03,959 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:37:15,091 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:37:15,094 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_133703.csv
+2025-05-17 13:37:15,094 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_133703.csv
+2025-05-17 13:37:15,123 - main - INFO - Goals generation request received
+2025-05-17 13:37:15,123 - main - ERROR - Goals generation failed: 'LIDAService' object has no attribute 'generate_goals'
+Traceback (most recent call last):
+  File "/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/main.py", line 260, in generate_goals
+    goals = lida_service.generate_goals(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LIDAService' object has no attribute 'generate_goals'
+2025-05-17 13:42:00,797 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:42:00,798 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134200.csv
+2025-05-17 13:42:00,860 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134200.csv
+2025-05-17 13:42:00,861 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134200.csv
+2025-05-17 13:42:00,861 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:00,881 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:00,923 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:42:00,934 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:42:00,948 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:42:11,887 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:42:11,894 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134200.csv
+2025-05-17 13:42:11,895 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_134200.csv
+2025-05-17 13:42:11,918 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:42:11,918 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134211.csv
+2025-05-17 13:42:11,969 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134211.csv
+2025-05-17 13:42:11,969 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134211.csv
+2025-05-17 13:42:11,969 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:12,027 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:12,061 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:42:12,073 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:42:12,085 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:42:23,200 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:42:23,241 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134211.csv
+2025-05-17 13:42:23,242 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_134211.csv
+2025-05-17 13:42:41,039 - main - INFO - File upload request received: DLS features for all languages.csv
+2025-05-17 13:42:41,039 - main - INFO - Attempting to save file to: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134241.csv
+2025-05-17 13:42:41,116 - main - INFO - File saved successfully: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134241.csv
+2025-05-17 13:42:41,117 - main - INFO - Generating summary for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134241.csv
+2025-05-17 13:42:41,117 - llmx - INFO - Info: LLMX_CONFIG_PATH environment variable is not set to a valid config file. Using default config file at '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:41,180 - llmx - INFO - Loaded config from '/home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/my_venv/lib/python3.12/site-packages/llmx/configs/config.default.yml'.
+2025-05-17 13:42:41,225 - lida - INFO - Provider is not set, using default provider - openai
+2025-05-17 13:42:41,236 - lida - INFO - Dataframe has more than 4500 rows. We will sample 4500 rows.
+2025-05-17 13:42:41,250 - lida - INFO - Enriching the data summary with descriptions
+2025-05-17 13:42:51,670 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 13:42:51,675 - main - INFO - Summary generated successfully for: /home/staka/Documents/SJ-Derivation/LinguaViz-Generator-app/backend/data/DLS_features_for_all_languages_20250517_134241.csv
+2025-05-17 13:42:51,676 - main - INFO - File processed successfully: DLS_features_for_all_languages_20250517_134241.csv

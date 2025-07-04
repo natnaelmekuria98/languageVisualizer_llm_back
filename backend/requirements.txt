@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+pandas==2.3.0
+python-dotenv==1.1.0
+lida==0.0.14
+Pillow==11.2.1
+python-multipart==0.0.20
+pydantic==2.11.4
+openai==1.77.0
