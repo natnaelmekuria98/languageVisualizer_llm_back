@@ -128,7 +128,7 @@ class LIDAService:
         if not self.openai_key:
             raise ValueError("OPENAI_API_KEY environment variable not found")
 
-        self.data_dir = Path("data").absolute()
+        self.data_dir = Path("/data").absolute()              # Modified from 'data' => '/data' for deployment
         self.data_dir.mkdir(exist_ok=True)
         self.start_time = time.time()
 
